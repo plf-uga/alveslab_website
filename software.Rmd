@@ -1,0 +1,14 @@
+---
+title: "Software"
+---
+
+![](images/software.png){width=20%}  
+
+## R packages
+
+* [qmtsvr](): (Quasi) Multi-task Support Vector Regression methods for genome-wide prediction of complex traits. 
+[`Documentation`](qmtsvr_doc.html) [`Source Code`](https://github.com/alvesand/qmtsvr)  
+
+## Python and R scripts
+
+* [PyGA](): Runs a simple genetic algorithm for tuning hyperparameters in the sklearn library.  [`Source Code`](https://github.com/alvesand/pyga)  

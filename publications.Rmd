@@ -1,0 +1,63 @@
+---
+title: "Publications"
+---
+
+![](images/paper.png){width=20%}      
+
+
+## 2024
+* **Alves AAC** (2024) qmsvm: Multi-task Support Vector Regression methods for genome-wide prediction of complex traits. *J. Anim. Sci.*. (*forthcoming*). 
+
+* **Alves AAC**, Ferreira RE, Dorea JRR (2024) Exploring Siamese Neural Networks for Individual Recognition of Dairy Cows in Open Set Scenarios Based on RGB and Depth Images. *Comput. Electron. Agric.* (*forthcoming*). 
+
+* **Alves AAC**, Fernandes AFA, Breen V, Hawken R, Rosa GJM (2024) Monitoring mortality and welfare-culling in group-housed broilers using machine learning algorithms trained with feeding behavior time-series data.  *Comput. Electron. Agric.* (*forthcoming*). 
+
+* **Alves AAC**, Fernandes AFA, Lopes FB, Breen V, Hawken R, Rosa GJM (2024) Genetic analysis of feed efficiency and novel feeding behavior traits measured in group-housed broilers using electronic feeders. *Poultry Science* (*forthcoming*)  
+
+
+## 2023
+* **Alves AAC**, Fernandes AFA, Lopes FB, Breen V, Hawken R, Gianola D, Rosa GJM (2023)	(Quasi) multitask support vector regression with heuristic
+hyperparameter optimization for whole-genome
+prediction of complex traits: a case study with carcass traits in broilers. *G3* 13(8):jkad109. [https://doi.org/10.1093/g3journal/jkad109](https://doi.org/10.1093/g3journal/jkad109)  
+
+* Freitas LA, Savegnago RP, **Alves** AAC, Costa RLD, Munari DP, Stafuzza NB, Rosa GJM, Paz CCP (2023) Classification Performance of Machine Learning Methods for Identifying Resistance, Resilience, and Susceptibility to Gastrointestinal Nematode Infections in Sheep. *Animals*. 13(3):374. [https://doi.org/10.3390/ani13030374](https://doi.org/10.3390/ani13030374)
+
+* Pinto DL, Selli A, Tulpan D, Andrietta LT, Garbossa PLM, Voort GV, Munro Jasper, McMorris M, **Alves AAC**, Carvalheiro R, Poleti MD, Balieiro JCC, Ventura RV (2023) Image feature extraction via Local Binary Patterns for marbling score classification in beef cattle using tree-based algorithms. *Livestock Science*. 267:105152. [doi:10.1016/j.livsci.2022.105152](https://www.sciencedirect.com/science/article/pii/S1871141322003250)
+
+
+## 2022
+* **Alves AAC**, Costa RM, Fonseca LS, Carvalheiro R, Ventura RV, Rosa GJM, Albuquerque
+LG (2022) A Random Forest-based genome-wide scan reveals fertility candidate genes and
+potential inter-chromosomal epistatic regions associated with age at first calving in Nellore
+cattle. *Frontiers in Genetics*.13:834724. [doi:10.3389/fgene.2022.834724](https://pubmed.ncbi.nlm.nih.gov/35692843/)
+
+* Bresolin T, Passafaro TL, Braz CU, **Alves AAC**, Carvalheiro R, Chardulo LAL, Rosa GJM,
+Albuquerque LG (2022). Investigating potential causal relationships among carcass and meat
+quality traits using structural equation model in Nellore cattle. *Meat Science*. 187:108771.[doi:
+10.1016/j.meatsci.2022.108771](https://www.sciencedirect.com/science/article/pii/S0309174022000390)
+
+
+## 2021
+* **Alves AAC**, Andrietta LT, Lopes RZ, Bussiman FO, Silva FF, Carvalheiro R, Brito LF,
+Balieiro JCC, Albuquerque LG, Ventura RV (2021) Integrating Audio Signal Processing and
+Deep Learning Algorithms for Gait Pattern Classification in Brazilian Gaited Horses.
+*Frontiers in Animal Science* 2:681557. [doi: 10.3389/fanim.2021.681557](https://www.frontiersin.org/articles/10.3389/fanim.2021.681557/full)
+
+* **Alves AAC**, Espigolan R, Bresolin T, Costa RM, Fernandes Júnior GA, Ventura RV,
+Carvalheiro R, and Albuquerque LG (2021) Genome-enabled prediction of breeding values for reproductive traits in Nellore cattle using parametric models and machine learning methods. *Animal Genetics* 52(1):32-46. [doi: 10.1111/age.13021](https://onlinelibrary.wiley.com/doi/full/10.1111/age.13021)
+
+## 2020
+* **Alves AAC**, Costa RM, Bresolin T, Fernandes Júnior GA, Espigolan R, Ribeiro AMF, Carvalheiro R, and Albuquerque LG (2020) Genome-wide prediction for complex traits under
+the presence of dominance effects in simulated populations using GBLUP and machine learning methods. *Journal of Animal Science* 98:6. [doi:10.1093/jas/skaa179](https://academic.oup.com/jas/article/98/6/skaa179/5849339?login=true)
+
+* Cardoso D, Fernandes-Junior G, Scalez D, **Alves AAC**, Magalhães AFB, Bresolin T, Ventura
+RV, Li C, Oliveira M, Porto-Neto L, Carvalheiro R, Oliveira HN, Tonhati H, and Albuquerque
+LG (2020) Uncovering sub-structure and genomic profiles in across-countries subpopulations
+of Angus cattle. *Scientific Reports* 10:8770. [doi:10.1038/s41598-020- 65565-1](https://www.nature.com/articles/s41598-020-65565-1)
+
+## 2019
+* **Alves AAC**, Pinzon AC, Costa RM, Silva MS, Vieira EHM, Mendonça IB, Viana VSS, and
+Lôbo RNB (2019) Multiple regression and machine learning-based methods for carcass traits
+and saleable meat cuts prediction using non-invasive in vivo measurements in commercial
+lambs. *Small Ruminant Research* 171:49-56. [doi: 10.1016/j.smallrumres.2018.12.008](https://www.sciencedirect.com/science/article/pii/S0921448818310265)
+

@@ -1,0 +1,10 @@
+body {
+  background-image: url('images/cow.jpg');
+  background-size: contain;
+  background-attachment: fixed;
+  background-position: center;
+  background-blur: 5110px;
+  color: white;
+  text-align: left;
+  padding: 100px;
+}

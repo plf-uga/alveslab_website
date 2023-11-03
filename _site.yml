@@ -1,0 +1,38 @@
+---
+name: "alves"
+title: "Alves Lab"
+navbar:
+  logo:
+    image: images/uga.png
+    href: https://animaldairy.uga.edu/
+  search: true
+  right:
+    - search: true
+    - text: "Research"
+      href: blog.html
+    - text: "Publications"
+      href: publications.html
+    - text: "People"
+      href: people.html
+    - text: "Software"
+      href: software.html
+    - text: "Teaching"
+      menu:
+        - text: "Undergrad Courses"
+          href: publish_article.html
+        - text: "Graduation Courses"
+          href: publish_website.html
+        - text: "---"
+        - text: "Short Courses"
+          href: metadata.html
+    - text: "Opportunities"
+      href: opportunities.html
+    - icon: fab fa-github
+      href: https://github.com/alvesand
+    - icon: fab fa-internet-explorer 
+      href: https://instagram.com/your_instagram_username
+output: distill::distill_article
+theme: "alves_theme.css"
+---
+
+
