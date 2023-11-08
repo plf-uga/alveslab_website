@@ -1,22 +1,33 @@
 ---
 name: "alves"
 title: "Alves Lab"
+theme: "alves_theme.css"
+cookie_consent:
+  style: simple
+  type: express
+  palette: light
+  lang: en
+  cookies_policy: url
+repository_url: https://github.com/plf-uga/alveslab_website
+base_url: https://plf-uga.github.io/alveslab_website/
 navbar:
+  search: true
   logo:
     image: images/uga.png
     href: https://animaldairy.uga.edu/
-  search: true
+  #search: true
   right:
-    - search: true
-    - text: "Research"
-      href: blog.html
-    - text: "Publications"
+    - text: "NEWS"
+      href: news.html
+    - text: "RESEARCH"
+      href: research.html
+    - text: "PUBLICATIONS"
       href: publications.html
-    - text: "People"
+    - text: "PEOPLE"
       href: people.html
-    - text: "Software"
+    - text: "SOFTWARE"
       href: software.html
-    - text: "Teaching"
+    - text: "TEACHING"
       menu:
         - text: "Undergrad Courses"
           href: publish_article.html
@@ -25,14 +36,28 @@ navbar:
         - text: "---"
         - text: "Short Courses"
           href: metadata.html
-    - text: "Opportunities"
+    - text: "OPPORTUNITIES"
       href: opportunities.html
     - icon: fab fa-github
       href: https://github.com/alvesand
-    - icon: fab fa-internet-explorer 
+    - icon: fab fa-linkedin 
       href: https://instagram.com/your_instagram_username
-output: distill::distill_article
-theme: "alves_theme.css"
+output: 
+  distill::distill_article:
+    includes:
+      in_header: giscus.html
+google_analytics: "UA-128676462-1"
+twitter:
+  site: "@PipingHotData"
+  creator: "@PipingHotData"
+rss:
+  full_content: true
+collections:
+  posts:
+      categories: true
+      share: [twitter, linkedin, facebook]
+      citations: true
+      #subscribe: subscribe.html
 ---
 
 
