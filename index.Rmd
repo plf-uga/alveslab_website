@@ -1,6 +1,27 @@
 ---
 title: "The Lab for Precision Livestock Science"
+site: distill::distill_website
+image: "cow.jpg"
+links:
+  - label: '<i class="fab fa-github"></i> GitHub'
+    url: "https://github.com/plf-uga"
+  - label: '<i class="fab fa-linkedin"></i> LinkedIn'
+    url: "https://www.linkedin.com/in/anderson-alves-69aa70212"
+  - label: '<i class="fas fa-envelope"></i> Email'
+    url: "mailto:carvalhoalve@wisc.edu"
+base_url: alvesand.netlify.app
+preview: cow.jpg
+twitter:
+  creator: "@PipingHotData"
+  site: "@PipingHotData"
+output:
+  postcards::jolla
 ---
-
-## About us
-
+ 
+We work on the development and application of efficient statistical learning methods and computational tools
+for the analysis of large livestock data. The lab research program centers on combining on‑farm sensor data and
+artificial intelligence (AI) techniques for animal monitoring. The general goal is to create decision‑making
+tools that will support efficient management decisions. Additionally, we employ high‑throughput
+phenotyping alongside modern molecular technologies to investigate the genetic basis of novel and
+hard‑to‑measure traits. Our lab mission is to harness top‑notch technologies to improve animal production,
+reproduction, welfare and health, ultimately supporting efficient and sustainable livestock farming.

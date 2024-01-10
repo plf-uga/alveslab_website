@@ -19,29 +19,18 @@ navbar:
   right:
     - text: "NEWS"
       href: news.html
-    - text: "RESEARCH"
-      href: research.html
     - text: "PUBLICATIONS"
       href: publications.html
     - text: "PEOPLE"
       href: people.html
     - text: "SOFTWARE"
       href: software.html
-    - text: "TEACHING"
-      menu:
-        - text: "Undergrad Courses"
-          href: publish_article.html
-        - text: "Graduation Courses"
-          href: publish_website.html
-        - text: "---"
-        - text: "Short Courses"
-          href: metadata.html
     - text: "OPPORTUNITIES"
       href: opportunities.html
     - icon: fab fa-github
       href: https://github.com/alvesand
     - icon: fab fa-linkedin 
-      href: https://instagram.com/your_instagram_username
+      href: https://www.linkedin.com/in/anderson-alves-69aa70212
 output: 
   distill::distill_article:
     includes:
@@ -59,5 +48,4 @@ collections:
       citations: true
       #subscribe: subscribe.html
 ---
-
 

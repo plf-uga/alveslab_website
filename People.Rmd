@@ -1,0 +1,32 @@
+---
+title: "PEOPLE"
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+## Current Lab Members
+
+<div style="display: flex; align-items: center; flex-direction: row;">
+  <img src="images/profile.jpg" alt="Profile Image" style="width: 40%;">
+  <p style="margin-left: 20px; text-align: left; line-height: 1.5; font-size: 1.2em;">
+    <span style="font-weight: bold; font-size: 1.2em; color: blue">Anderson A. C. Alves [<span style="color: red;"> [CV]</span>](https://github.com/alvesand/CV/blob/main/CV-master/CV.pdf)</span><br>
+    <span style="font-weight: bold; font-size: 1.0em;">Ph.D. Sao Paulo State University, Brazil</span><br>
+    <strong style="font-size: 1.0em;">**email**: alvesand@uga.edu</strong><br>
+    <span style="font-size: 1.0em;">[<span style="color: red;">Faculty Page</span>](https://www.caes.uga.edu/about/personnel/person/24103/anderson-alves.html)</span><br>
+    <span style="font-size: 1.0em;">[<span style="color: red;">Google Scholar Profile</span>](https://scholar.google.com/citations?user=_JLXWlkAAAAJ&hl=pt-BR)</span><br> 
+  </p>
+</div>
+
+
+<div style="display: flex; align-items: center; flex-direction: row;">
+  <img src="images/profile_icon.png" alt="Profile Image" style="width: 40%;">
+  <p style="margin-left: 20px; text-align: left; line-height: 1.5; font-size: 1.2em;">
+    <span style="font-weight: bold; font-size: 1.2em; color: blue">Jordan M. Hooker</span><br> 
+    <span style="font-weight: bold; font-size: 1.0em;">M.S. Student</span><br>
+    <span style="font-weight: bold; font-size: 1.0em;">B.S. Oklahoma State University</span><br>
+    <span style="font-weight: bold; font-size: 1.0em;">Research Area: Behavior and Welfare</span><br>
+    </p>
+</div>
+
+

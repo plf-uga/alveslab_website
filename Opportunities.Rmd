@@ -1,0 +1,18 @@
+---
+title: "OPPORTUNITIES"
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+We are always seeking to recruit talented and highly motivated graduate students and post-docs who wish to study and work with digital technologies and predictive analytics methods with emphasis on the optimization of farm management decisions and automated measurement of novel and hard-to-measure traits for animal breeding purposes. Those interested in joining our group are encouraged to email Prof. Anderson Alves (alvesand@uga.edu). 
+
+
+
+# Graduate Students
+
+Graduate students will receive training in data analytics and machine learning, with particular emphasis on dairy cattle applications. See the <span style="color: red;">[Department of Animal and Dairy Science](https://animaldairy.uga.edu/graduate/admissions.html)</span> for guidance on the admission process. 
+
+# Post-docs
+
+Our lab welcomes prospective candidates with background in one or more of the following areas: deep learning, hyperspectral imaging, robotics, machine vision, statistical genetics and/or computational genomics.Successful candidates are expected to assist in conducting experiments, analyzing data, and publishing research findings. Additionally, they will support the training and mentoring of graduate and undergraduate students. 
