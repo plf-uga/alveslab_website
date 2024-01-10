@@ -1,14 +1,17 @@
 ---
 title: "Software"
+output:
+  distill::distill_article:
+    self_contained: false
 ---
 
-![](images/software.png){width=20%}  
+<img src="images/software.png" alt="Profile Image" style="width: 40%;">
 
 ## R packages
 
 * [qmtsvr](): (Quasi) Multi-task Support Vector Regression methods for genome-wide prediction of complex traits. 
-[`Documentation`](qmtsvr_doc.html) [`Source Code`](https://github.com/alvesand/qmtsvr)  
+[<span style="font-weight: bold; color: red;">`Documentation`</span>](https://alvesand.netlify.app/qmtsvr_doc) [<span style="font-weight: bold; color: red;">`Source Code`</span>](https://github.com/alvesand/qmtsvr)  
 
 ## Python and R scripts
 
-* [PyGA](): Runs a simple genetic algorithm for tuning hyperparameters in the sklearn library.  [`Source Code`](https://github.com/alvesand/pyga)  
+* [PyGA](): Runs a simple genetic algorithm for tuning hyperparameters in the sklearn library.  [<span style="font-weight: bold; color: red;">`Source Code`</span>](https://github.com/alvesand/pyga)  

@@ -1,0 +1,44 @@
+[
+  {
+    "path": "posts/2023-11-04-new-research-on-ultrasound-analysis/",
+    "title": "New seed grant awarded on ultrasound image analysis",
+    "description": {},
+    "author": [
+      {
+        "name": "Anderson Alves",
+        "url": "https://alveslab.org"
+      }
+    ],
+    "date": "2023-12-02",
+    "categories": [
+      "Ongoing Research"
+    ],
+    "contents": "\r\nThe Institute for Integrative Precision Agriculture has awarded our lab a seed grant to investigate the suitability of applying deep learning algorithms for ultrasound image analysis to support\r\nreproductive management decisions in Cattle.\r\nThe constant advances in bovine ultrasound (US) technology, including size reduction, higher level of autonomy, better image quality, and price decreases have contributed to the spread of this technology as a common diagnostic method to assist reproduction management in beef and dairy cattle. Nonetheless,\r\nacquisition, processing, and interpretation of US-based images are time-consuming, require highly trained personnel, and might present high inter- and intra-observer variability. These limitations comprise a major challenge for large-scale application of this technology in farm conditions. The use of artificial intelligence techniques could assist the systematic evaluation of US images, contributing to the automation of complex tasks such as classifying and segmenting US-based scans, or detecting objects of interest in such imagery. The implementation of deep learning (DL) algorithms for ultrasound analysis might contribute to\r\nfacilitating image interpretation, decrease misdiagnosis, and optimize workflow on the farm. In this project, we will develop computer vision systems using deep learning algorithms to process and classify ultrasound images, aiming to generate on a large scale, image-driven reproductive indicators that can be used to\r\nsupport reproductive management decisions in cattle. Hundreds of ultrasound images will be collected in beef cows during their breeding and gestation stages. A deep neural network approach called Mask-RCNN will be implemented to generate segmented areas for the regions of interest (fetus and corpus luteum). After\r\nthis preliminary step, the pixel information from the segmented regions will be fed into convolution neural networks (CNN) to predict different fetal measurements predictions based on traditional B-mode US images. Additionally, the probability of pregnancy maintenance will be predicted based on Color Doppler\r\n(CD) ultrasonography. The outcomes of the proposed project are expected to assist veterinarians and farmers in optimizing management decisions promptly, contributing to enhancing reproductive efficiency in the cattle industry.\r\n\r\n\r\n\r\n\r\n",
+    "preview": "posts/2023-11-04-new-research-on-ultrasound-analysis/doppler_icon.png",
+    "last_modified": "2024-01-10T15:00:47-05:00",
+    "input_file": {},
+    "preview_width": 272,
+    "preview_height": 206
+  },
+  {
+    "path": "posts/2023-11-03-my-first-post/",
+    "title": "Meet Our New Facultuy",
+    "description": "Post originally from ADS news letter",
+    "author": [
+      {
+        "name": "Anderson Alves",
+        "url": "alvesand.netlify.app"
+      }
+    ],
+    "date": "2023-11-04",
+    "categories": [
+      "New hiring"
+    ],
+    "contents": "\r\nAnderson A. C. Alves\r\n\r\nDr. Anderson Alves will be joining the Department of Animal and Dairy Science at UGA as an Assistant Professor in Precision Livestock Science. Originally from Brazil, Dr. Alves earned his Master’s and Doctoral degrees in Animal Science and Animal Breeding and Genetics from the Federal University of Ceara (2016) and Sao Paulo State University (2019), respectively. He served as a Lecturer at the Federal Institute of Education, Science, and Technology of Maranhao (Brazil) until 2021, when he joined the University of Wisconsin-Madison to work as a Research Associate.\r\nAt UGA, Dr. Alves’s research agenda will center on harnessing sensor technologies and artificial intelligence (AI) techniques to support efficient and sustainable livestock farming, driven by non-invasive and automated methods for monitoring welfare, health, and production indicators in Dairy Cattle and other livestock species. His research group will focus on the development and application of efficient statistical learning methods and computational tools for the analysis of high-dimensional livestock data derived from different sources, including cameras, acoustic sensors, farm records, radio-frequency systems, and modern molecular information. Examples of applications include the use of computer vision systems to monitor individual behavior in dairy cows, enabling early disease prediction, estrus detection, and identification of heat stress indicators.\r\nOriginally posted at CAES Fall Newsletter\r\n\r\n\r\n\r\n",
+    "preview": "posts/2023-11-03-my-first-post/ugalogo.png",
+    "last_modified": "2024-01-10T14:59:28-05:00",
+    "input_file": {},
+    "preview_width": 768,
+    "preview_height": 1151
+  }
+]
