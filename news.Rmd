@@ -1,0 +1,6 @@
+---
+title: "News"
+twitter:
+  creator: "@alves_and"
+listing: posts
+---

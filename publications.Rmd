@@ -1,12 +1,13 @@
 ---
 title: "Publications"
+output:
+  distill::distill_article:
+    self_contained: false
 ---
 
-![](images/paper.png){width=20%}      
-
+<img src="images/paper.png" alt="Profile Image" style="width: 40%;">
 
 ## 2024
-* **Alves AAC** (2024) qmsvm: Multi-task Support Vector Regression methods for genome-wide prediction of complex traits. *J. Anim. Sci.*. (*forthcoming*). 
 
 * **Alves AAC**, Ferreira RE, Dorea JRR (2024) Exploring Siamese Neural Networks for Individual Recognition of Dairy Cows in Open Set Scenarios Based on RGB and Depth Images. *Comput. Electron. Agric.* (*forthcoming*). 
 
@@ -14,6 +15,7 @@ title: "Publications"
 
 * **Alves AAC**, Fernandes AFA, Lopes FB, Breen V, Hawken R, Rosa GJM (2024) Genetic analysis of feed efficiency and novel feeding behavior traits measured in group-housed broilers using electronic feeders. *Poultry Science* (*forthcoming*)  
 
+* Freitas, L. A., Savegnago, R. P., **Alves, A. A. C.**, Stafuzza, N. B., Pedrosa, V. B., Rocha, R. A., Rosa, G. J. M., & Paz C. C. P. (2024). Genome‑enabled prediction of indicator traits of resistance to gastrointestinal nematodes in sheep using parametric models and artificial neural networks. Research in Veterinary Science, 166:105099. [https://doi.org/10.1016/j.rvsc.2023.105099](https://doi.org/10.1016/j.rvsc.2023.105099)
 
 ## 2023
 * **Alves AAC**, Fernandes AFA, Lopes FB, Breen V, Hawken R, Gianola D, Rosa GJM (2023)	(Quasi) multitask support vector regression with heuristic
