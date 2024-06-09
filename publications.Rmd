@@ -9,13 +9,15 @@ output:
 
 ## 2024
 
-* **Alves AAC**, Ferreira RE, Dorea JRR (2024) Exploring Siamese Neural Networks for Individual Recognition of Dairy Cows in Open Set Scenarios Based on RGB and Depth Images. *Comput. Electron. Agric.* (*forthcoming*). 
+* **Alves AAC**, Fernandes AFA, Breen V, Hawken R, Rosa GJM (2024) Monitoring mortality and welfare-culling in group-housed broilers using machine learning algorithms trained with feeding behavior time-series data.  *Comput. Electron. Agric.*, 224:109124. [https://doi.org/10.1016/j.compag.2024.109124](https://doi.org/10.1016/j.compag.2024.109124) 
 
-* **Alves AAC**, Fernandes AFA, Breen V, Hawken R, Rosa GJM (2024) Monitoring mortality and welfare-culling in group-housed broilers using machine learning algorithms trained with feeding behavior time-series data.  *Comput. Electron. Agric.* (*forthcoming*). 
+* Silveira RMF, Silva César LF da, Sousa LCO de, Costa HHA, Vasconcelos ECG, McManus C, Sarti DA, **Alves AAC**, Landim AV (2024). Carcass traits and morphometry, typification of the Longissimus dorsi muscle and non‑carcass components of hair lambs: Can biscuit bran completely replace corn? A machine learning approach. *Tropical Animal Health and Production*, 56(4), 162. [https://doi.org/10.1007/s11250-024-04007-w](https://doi.org/10.1007/s11250-024-04007-w)
 
-* **Alves AAC**, Fernandes AFA, Lopes FB, Breen V, Hawken R, Rosa GJM (2024) Genetic analysis of feed efficiency and novel feeding behavior traits measured in group-housed broilers using electronic feeders. *Poultry Science* (*forthcoming*)  
+* **Alves AAC**, Fernandes AFA, Lopes FB, Breen V, Hawken R, Rosa GJM. (2024). Genetic analysis of feed efficiency and novel feeding behavior traits measured in group‑housed broilers using electronic feeders.Poultry Science, 103(7), 103737. [https://doi.org/10.1016/j.psj.2024.103737](https://doi.org/10.1016/j.psj.2024.103737) 
 
-* Freitas, L. A., Savegnago, R. P., **Alves, A. A. C.**, Stafuzza, N. B., Pedrosa, V. B., Rocha, R. A., Rosa, G. J. M., & Paz C. C. P. (2024). Genome‑enabled prediction of indicator traits of resistance to gastrointestinal nematodes in sheep using parametric models and artificial neural networks. Research in Veterinary Science, 166:105099. [https://doi.org/10.1016/j.rvsc.2023.105099](https://doi.org/10.1016/j.rvsc.2023.105099)
+* Mota LFM, Arikawa LM, Santos SWB, Fernandes Júnior GA, **Alves AAC**, Rosa GJM, Mercadante MEZ, Cyrillo JNSG, Carvalheiro R, Albuquerque LG. (2024). Benchmarking machine learning and parametric methods for genomic prediction of feed efficiency‑related traits in Nellore cattle. Scientific Reports, 14, 6404. [https://doi.org/10.1038/s41598-024-57234-4](https://doi.org/10.1038/s41598-024-57234-4)
+
+* Freitas LA, Savegnago RP, **Alves AAC**, Stafuzza NB, Pedrosa VB, Rocha RA, Rosa GJM, Paz CCP. (2024). Genome‑enabled prediction of indicator traits of resistance to gastrointestinal nematodes in sheep using parametric models and artificial neural networks. Research in Veterinary Science, 166:105099. [https://doi.org/10.1016/j.rvsc.2023.105099](https://doi.org/10.1016/j.rvsc.2023.105099)
 
 ## 2023
 * **Alves AAC**, Fernandes AFA, Lopes FB, Breen V, Hawken R, Gianola D, Rosa GJM (2023)	(Quasi) multitask support vector regression with heuristic
