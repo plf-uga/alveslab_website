@@ -2,27 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" version="1.0">
   <url>
     <loc>https://plf-uga.github.io/alveslab_website/</loc>
-    <lastmod>2024-01-10T15:18:11-05:00</lastmod>
+    <lastmod>2024-06-09T16:09:54-04:00</lastmod>
   </url>
   <url>
     <loc>https://plf-uga.github.io/alveslab_website/news.html</loc>
-    <lastmod>2023-11-03T22:16:18-04:00</lastmod>
+    <lastmod>2024-06-09T16:09:54-04:00</lastmod>
   </url>
   <url>
     <loc>https://plf-uga.github.io/alveslab_website/Opportunities.html</loc>
-    <lastmod>2024-01-10T14:29:57-05:00</lastmod>
+    <lastmod>2024-06-09T16:09:53-04:00</lastmod>
   </url>
   <url>
     <loc>https://plf-uga.github.io/alveslab_website/People.html</loc>
-    <lastmod>2024-01-10T13:01:55-05:00</lastmod>
+    <lastmod>2024-06-09T16:09:53-04:00</lastmod>
   </url>
   <url>
     <loc>https://plf-uga.github.io/alveslab_website/publications.html</loc>
-    <lastmod>2024-01-10T14:33:21-05:00</lastmod>
+    <lastmod>2024-06-09T16:09:54-04:00</lastmod>
   </url>
   <url>
     <loc>https://plf-uga.github.io/alveslab_website/software.html</loc>
-    <lastmod>2024-01-10T15:23:55-05:00</lastmod>
+    <lastmod>2024-06-09T16:09:54-04:00</lastmod>
+  </url>
+  <url>
+    <loc>https://plf-uga.github.io/alveslab_website/posts/2024-06-09-new-paper-on-mortality-monitoring/</loc>
+    <lastmod>2024-06-09T16:14:36-04:00</lastmod>
   </url>
   <url>
     <loc>https://plf-uga.github.io/alveslab_website/posts/2023-11-04-new-research-on-ultrasound-analysis/</loc>

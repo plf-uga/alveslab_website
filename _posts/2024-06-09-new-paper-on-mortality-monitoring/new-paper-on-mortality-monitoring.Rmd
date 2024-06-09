@@ -1,0 +1,26 @@
+---
+title: "Recent paper published on Broiler mortality monitoring with Machine Learning"
+author:
+  - name: Anderson Alves
+    url: https://alveslab.org
+date: 2024-06-09
+categories:
+  - Recent Papers
+output:
+  distill::distill_article:
+    self_contained: false
+preview: Figure 1.jpg
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+We are thrilled to announce that our latest research on monitoring mortality in broiler chickens using features extracted from feeding behavior time-series has been published in <span style="color: red;"> [Computers and Electronics in Agriculture](https://www.sciencedirect.com/science/article/pii/S0168169924005155?dgcid=author)</span>.
+
+In this study, we explored the integration of machine learning (ML) techniques with feeding behavior (FB) time series data to predict mortality events (animals culled or found dead) in floor-raised broilers. Our dataset included 2,667,617 daily observations for eight FB traits from 95,711 birds across 146 feeding trials. After data cleaning, the class distribution was 93.7 % healthy birds and 6.3 % withdrawn birds (culled or found dead), coded as 0 and 1 respectively. Mortality predictions were made one or three days before the observed events. Time series data for different FB traits were utilized to extract 22 time series features per trait, creating a structured feature dataset (days in the feeding trial + 128 time series features). We compared different ML algorithms: gradient boosting machine (GBM), multilayer perceptron neural network (MLP), logistic regression (LR), random forest (RF), and support vector machine (SVM). Due to the imbalanced nature of the data, we evaluated two sampling strategies: a random under-sampling technique (RUS) and a combined strategy (RUS + SMOTE). Models were assessed using 20-fold cross-validation and an independent test set. Statistical tests indicated consistent differences in most FB traits between control and withdrawn birds at least 7 days before the event. Features derived from traits like daily feed intake, number of visited feeders, visiting activity interval, and number of meals presented high predictive importance for mortality monitoring in broilers. In the cross-validation, classifiers achieved an average (standard deviation) of up to 0.87 (0.02) for the area under the ROC curve (AUC) and 0.55 (0.03) for the area under the precision-recall curve (AUPRC). This demonstrated a significant increase in classification performance compared to a no-skill classifier. However, performance dropped notably when extending the prediction window from one to three days in advance. The performance observed in the independent set was similar to that observed during cross-validation, indicating the robustness of our approach. The RUS + SMOTE strategy slightly outperformed RUS across all methods. GBM and SVM algorithms performed best, with no significant differences between them. Additionally, comparable results could be obtained by utilizing a reduced set of features with high predictive importance in comparison with models trained on the full feature set. In summary, Our findings indicate that large-scale feeding behavior data collected from electronic feeders offer valuable insights for predicting illness-related mortality events in floor-raised broilers using machine learning methods. Further research is needed to investigate the feasibility and cost-effectiveness of such monitoring systems in commercial settings.
+
+<img src="Figure 1.jpg" alt="Profile Image" style="width: 80%;">
+
+
+
