@@ -5,28 +5,86 @@ output:
     self_contained: false
 ---
 
+<style>
+  .highlight-link {
+    background-color: rgba(255, 0, 0, 0.2); /* Light red transparent highlight */
+    padding: 2px 4px;
+    border-radius: 4px;
+  }
+</style>
+
 ## Current Lab Members
 
 <div style="display: flex; align-items: center; flex-direction: row;">
-  <img src="images/profile_new.jpg" alt="Profile Image" style="width: 200px; height: 250px;">
+  <img src="images/alves_profile.jpg" alt="Profile Image" style="width: 165px; height: 230px;">
   <p style="margin-left: 20px; text-align: left; line-height: 1.5; font-size: 1.2em;">
-    <span style="font-weight: bold; font-size: 1.2em; color: blue">Anderson A. C. Alves [<span style="color: red;"> [CV]</span>](https://github.com/alvesand/CV/blob/main/CV-master/CV.pdf)</span><br>
-    <span style="font-weight: bold; font-size: 1.0em;">Ph.D. Sao Paulo State University, Brazil</span><br>
-    <strong style="font-size: 1.0em;">**email**: alvesand@uga.edu</strong><br>
-    <span style="font-size: 1.0em;">[<span style="color: red;">Faculty Page</span>](https://www.caes.uga.edu/about/personnel/person/24103/anderson-alves.html)</span><br>
-    <span style="font-size: 1.0em;">[<span style="color: red;">Google Scholar Profile</span>](https://scholar.google.com/citations?user=_JLXWlkAAAAJ&hl=pt-BR)</span><br> 
+    <span style="font-weight: bold; font-size: 1.2em; color: black">
+      Anderson A. C. Alves 
+      <img src="https://flagcdn.com/w40/br.png" alt="Brazil Flag" style="width: 20px; height: 15px;">
+    </span><br>
+    <span style="font-weight: bold; font-size: .90em;">Principal Investigator</span><br>
+    <span style="font-weight: bold; font-size: .90em;">Ph.D. Animal Breeding and Genetics</span><br>
+    <span style="font-weight: bold; font-size: .90em;">Sao Paulo State University, Brazil</span><br>
+    <strong style="font-size: .90em;">**email**: alvesand@uga.edu</strong><br>
+    <span style="font-size: .90em;">[<span class="highlight-link">Faculty Page</span>](https://www.caes.uga.edu/about/personnel/person/24103/anderson-alves.html)</span><br>
+    <span style="font-size: .90em;">[<span class="highlight-link">Google Scholar Profile</span>](https://scholar.google.com/citations?user=_JLXWlkAAAAJ&hl=pt-BR)</span><br>
+    [<span class="highlight-link">CV</span>](https://github.com/alvesand/CV/blob/main/CV-master/CV.pdf)<br>
   </p>
 </div>
 
-
 <div style="display: flex; align-items: center; flex-direction: row;">
-  <img src="images/jordan.jpg" alt="Profile Image" style="width: 200px;">
+  <img src="images/jordan.jpg" alt="Profile Image" style="width: 165px; height: 180px;">
   <p style="margin-left: 20px; text-align: left; line-height: 1.5; font-size: 1.2em;">
-    <span style="font-weight: bold; font-size: 1.2em; color: blue">Jordan M. Hooker</span><br> 
-    <span style="font-weight: bold; font-size: 1.0em;">M.S. Student</span><br>
-    <span style="font-weight: bold; font-size: 1.0em;">B.S. Oklahoma State University</span><br>
-    <span style="font-weight: bold; font-size: 1.0em;">Research Area: Behavior and Welfare</span><br>
-    </p>
+    <span style="font-weight: bold; font-size: 1.2em; color: black">
+      Jordan M. Hooker 
+      <img src="https://flagcdn.com/w40/us.png" alt="USA Flag" style="width: 20px; height: 15px;">
+    </span><br> 
+    <span style="font-weight: bold; font-size: .90em;">M.S. Student</span><br>
+    <span style="font-weight: bold; font-size: .90em;">B.S. Oklahoma State University</span><br>
+    <span style="font-weight: bold; font-size: .90em;">Research Area: Precision Dairy Science</span><br>
+    <strong style="font-size: 1.0em;">**email**: jordan.hooker@uga.edu</strong><br>
+  </p>
 </div>
 
+<div style="display: flex; align-items: center; flex-direction: row;">
+  <img src="images/taofeek_profile.jpg" alt="Profile Image" style="width: 217px; height: 200px;">
+  <p style="margin-left: 20px; text-align: left; line-height: 1.5; font-size: 1.2em;">
+    <span style="font-weight: bold; font-size: 1.2em; color: black">
+      Taofeek Abdulrahman 
+      <img src="https://flagcdn.com/w40/ng.png" alt="Nigeria Flag" style="width: 20px; height: 15px;">
+    </span><br>
+    <span style="font-weight: bold; font-size: .90em;">M.S. Student</span><br>
+    <span style="font-weight: bold; font-size: .90em;">B.S. Animal Breeding and Genetics, Federal University of Agriculture, Abeokuta, Nigeria</span><br>
+    <strong style="font-size: .90em;">**email**: taofeekabdulrahman@uga.edu</strong><br>
+    <span style="font-weight: bold; font-size: .90em;">Research Area: High-throughput Phenotyping/Genetics</span><br>
+  </p>
+</div>
 
+<div style="display: flex; align-items: center; flex-direction: row;">
+  <img src="images/bruno_profile.jpg" alt="Profile Image" style="width: 165px; height: 200px;">
+  <p style="margin-left: 20px; text-align: left; line-height: 1.5; font-size: 1.2em;">
+    <span style="font-weight: bold; font-size: 1.2em; color: black">
+      Bruno B. Medeiros 
+      <img src="https://flagcdn.com/w40/br.png" alt="Brazil Flag" style="width: 20px; height: 15px;">
+    </span><br>
+    <span style="font-weight: bold; font-size: .90em;">Ph.D. Student</span><br>
+    <span style="font-weight: bold; font-size: .90em;">B.S. Veterinary Medicine (DVM), Federal University of Goiás, Brazil</span><br>
+    <strong style="font-size: 1.0em;">**email**: bruno.medeiros@uga.edu</strong><br>
+    <span style="font-weight: bold; font-size: .90em;">Research Area: High-throughput Phenotyping/Genetics</span><br>
+  </p>
+</div>
+
+<div style="display: flex; align-items: center; flex-direction: row;">
+  <img src="images/saha_profile.jpg" alt="Profile Image" style="width: 165px; height: 200px;">
+  <p style="margin-left: 20px; text-align: left; line-height: 1.5; font-size: 1.2em;">
+    <span style="font-weight: bold; font-size: 1.2em; color: black">
+      Chamak Saha 
+      <img src="https://flagcdn.com/w40/bd.png" alt="Bangladesh Flag" style="width: 20px; height: 15px;">
+    </span><br>
+    <span style="font-weight: bold; font-size: .90em;">M.S. Student</span><br>
+    <span style="font-weight: bold; font-size: .90em;">B.S. Computer Science and Engineering, BRAC University, Bangladesh</span><br>
+    <strong style="font-size: .90em;">**email**: chamak.saha@uga.edu</strong><br>
+    <span style="font-weight: bold; font-size: .90em;">Research Area: Computer Vision, Applied AI</span><br>
+    <span style="font-size: .90em;">[<span class="highlight-link">Google Scholar Profile</span>](https://scholar.google.com/citations?user=YkEtM7oAAAAJ&hl=en)</span><br> 
+  </p>
+</div>
