@@ -5,7 +5,7 @@ output:
     self_contained: false
 ---
 
-<img src="images/software.png" alt="Profile Image" style="width: 40%;">
+<img src="images/software.png" alt="Profile Image" style="width: 20%;">
 
 ## R packages
 

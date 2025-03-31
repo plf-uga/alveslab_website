@@ -109,7 +109,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   <!--radix_placeholder_rmarkdown_metadata-->
 
   <script type="text/json" id="radix-rmarkdown-metadata">
-  {"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["title","output"]}},"value":[{"type":"character","attributes":{},"value":["Publications"]},{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["distill::distill_article"]}},"value":[{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["self_contained"]}},"value":[{"type":"logical","attributes":{},"value":[false]}]}]}]}
+  {"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["title","output","css"]}},"value":[{"type":"character","attributes":{},"value":["Publications"]},{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["distill::distill_article"]}},"value":[{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["self_contained","toc","toc_float"]}},"value":[{"type":"logical","attributes":{},"value":[false]},{"type":"logical","attributes":{},"value":[true]},{"type":"logical","attributes":{},"value":[true]}]}]},{"type":"character","attributes":{},"value":["float.css"]}]}
   </script>
   <!--/radix_placeholder_rmarkdown_metadata-->
   <!--radix_placeholder_navigation_in_header-->
@@ -2565,6 +2565,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   </script>
   <!--/radix_placeholder_site_in_header-->
 
+  <link rel="stylesheet" href="float.css" type="text/css"/>
 
 </head>
 
@@ -2590,6 +2591,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 <div class="nav-right">
 <a href="news.html">NEWS</a>
 <a href="publications.html">PUBLICATIONS</a>
+<a href="media.html">MEDIA</a>
 <a href="people.html">PEOPLE</a>
 <a href="software.html">SOFTWARE</a>
 <a href="opportunities.html">OPPORTUNITIES</a>
@@ -2617,12 +2619,22 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 
 
 <div class="d-article">
-<p><img src="images/paper.png" alt="Profile Image" style="width: 40%;"></p>
-<h2 id="section">2025</h2>
+<div class="d-contents d-contents-float">
+<nav class="l-text toc figcaption" id="TOC">
+<h3>Contents</h3>
+<ul>
+<li><a href="#peer-reviewed-manuscripts" id="toc-peer-reviewed-manuscripts">Peer-Reviewed Manuscripts</a></li>
+</ul>
+</nav>
+</div>
+<p><img src="images/paper.png" alt="Profile Image" style="width: 20%;"></p>
+<h2 id="peer-reviewed-manuscripts">Peer-Reviewed Manuscripts</h2>
+<ul>
+<li><p>2025</p>
 <ul>
 <li>Freitas LA, Ferreira RE, <strong>Alves AAC</strong>, Dorea JR, Paz CCP, Rosa GJM (2025). Detection of anemic sheep using ocular conjunctiva images and deep learning algorithms. <em>Livestock Science</em>, 294:105669. <a href="https://doi.org/10.1016/j.livsci.2025.105669">https://doi.org/10.1016/j.livsci.2025.105669</a></li>
-</ul>
-<h2 id="section-1">2024</h2>
+</ul></li>
+<li><p>2024</p>
 <ul>
 <li><p>Bussiman F, <strong>Alves AAC</strong>, Richter J, Hidalgo J, Veroneze R, Oliveira T (2024). Supervised machine
 learning techniques for breeding value prediction in horses: An example using gait visual scores. <em>Animals</em>,
@@ -2632,16 +2644,16 @@ learning techniques for breeding value prediction in horses: An example using ga
 <li><p><strong>Alves AAC</strong>, Fernandes AFA, Lopes FB, Breen V, Hawken R, Rosa GJM. (2024). Genetic analysis of feed efficiency and novel feeding behavior traits measured in group‑housed broilers using electronic feeders.Poultry Science, 103(7), 103737. <a href="https://doi.org/10.1016/j.psj.2024.103737">https://doi.org/10.1016/j.psj.2024.103737</a></p></li>
 <li><p>Mota LFM, Arikawa LM, Santos SWB, Fernandes Júnior GA, <strong>Alves AAC</strong>, Rosa GJM, Mercadante MEZ, Cyrillo JNSG, Carvalheiro R, Albuquerque LG. (2024). Benchmarking machine learning and parametric methods for genomic prediction of feed efficiency‑related traits in Nellore cattle. Scientific Reports, 14, 6404. <a href="https://doi.org/10.1038/s41598-024-57234-4">https://doi.org/10.1038/s41598-024-57234-4</a></p></li>
 <li><p>Freitas LA, Savegnago RP, <strong>Alves AAC</strong>, Stafuzza NB, Pedrosa VB, Rocha RA, Rosa GJM, Paz CCP. (2024). Genome‑enabled prediction of indicator traits of resistance to gastrointestinal nematodes in sheep using parametric models and artificial neural networks. Research in Veterinary Science, 166:105099. <a href="https://doi.org/10.1016/j.rvsc.2023.105099">https://doi.org/10.1016/j.rvsc.2023.105099</a></p></li>
-</ul>
-<h2 id="section-2">2023</h2>
+</ul></li>
+<li><p>2023</p>
 <ul>
 <li><p><strong>Alves AAC</strong>, Fernandes AFA, Lopes FB, Breen V, Hawken R, Gianola D, Rosa GJM (2023) (Quasi) multitask support vector regression with heuristic
 hyperparameter optimization for whole-genome
 prediction of complex traits: a case study with carcass traits in broilers. <em>G3</em> 13(8):jkad109. <a href="https://doi.org/10.1093/g3journal/jkad109">https://doi.org/10.1093/g3journal/jkad109</a></p></li>
 <li><p>Freitas LA, Savegnago RP, <strong>Alves</strong> AAC, Costa RLD, Munari DP, Stafuzza NB, Rosa GJM, Paz CCP (2023) Classification Performance of Machine Learning Methods for Identifying Resistance, Resilience, and Susceptibility to Gastrointestinal Nematode Infections in Sheep. <em>Animals</em>. 13(3):374. <a href="https://doi.org/10.3390/ani13030374">https://doi.org/10.3390/ani13030374</a></p></li>
 <li><p>Pinto DL, Selli A, Tulpan D, Andrietta LT, Garbossa PLM, Voort GV, Munro Jasper, McMorris M, <strong>Alves AAC</strong>, Carvalheiro R, Poleti MD, Balieiro JCC, Ventura RV (2023) Image feature extraction via Local Binary Patterns for marbling score classification in beef cattle using tree-based algorithms. <em>Livestock Science</em>. 267:105152. <a href="https://www.sciencedirect.com/science/article/pii/S1871141322003250">doi:10.1016/j.livsci.2022.105152</a></p></li>
-</ul>
-<h2 id="section-3">2022</h2>
+</ul></li>
+<li><p>2022</p>
 <ul>
 <li><p><strong>Alves AAC</strong>, Costa RM, Fonseca LS, Carvalheiro R, Ventura RV, Rosa GJM, Albuquerque
 LG (2022) A Random Forest-based genome-wide scan reveals fertility candidate genes and
@@ -2651,8 +2663,8 @@ cattle. <em>Frontiers in Genetics</em>.13:834724. <a href="https://pubmed.ncbi.n
 Albuquerque LG (2022). Investigating potential causal relationships among carcass and meat
 quality traits using structural equation model in Nellore cattle. <em>Meat Science</em>. 187:108771.<a href="https://www.sciencedirect.com/science/article/pii/S0309174022000390">doi:
 10.1016/j.meatsci.2022.108771</a></p></li>
-</ul>
-<h2 id="section-4">2021</h2>
+</ul></li>
+<li><p>2021</p>
 <ul>
 <li><p><strong>Alves AAC</strong>, Andrietta LT, Lopes RZ, Bussiman FO, Silva FF, Carvalheiro R, Brito LF,
 Balieiro JCC, Albuquerque LG, Ventura RV (2021) Integrating Audio Signal Processing and
@@ -2660,8 +2672,8 @@ Deep Learning Algorithms for Gait Pattern Classification in Brazilian Gaited Hor
 <em>Frontiers in Animal Science</em> 2:681557. <a href="https://www.frontiersin.org/articles/10.3389/fanim.2021.681557/full">doi: 10.3389/fanim.2021.681557</a></p></li>
 <li><p><strong>Alves AAC</strong>, Espigolan R, Bresolin T, Costa RM, Fernandes Júnior GA, Ventura RV,
 Carvalheiro R, and Albuquerque LG (2021) Genome-enabled prediction of breeding values for reproductive traits in Nellore cattle using parametric models and machine learning methods. <em>Animal Genetics</em> 52(1):32-46. <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/age.13021">doi: 10.1111/age.13021</a></p></li>
-</ul>
-<h2 id="section-5">2020</h2>
+</ul></li>
+<li><p>2020</p>
 <ul>
 <li><p><strong>Alves AAC</strong>, Costa RM, Bresolin T, Fernandes Júnior GA, Espigolan R, Ribeiro AMF, Carvalheiro R, and Albuquerque LG (2020) Genome-wide prediction for complex traits under
 the presence of dominance effects in simulated populations using GBLUP and machine learning methods. <em>Journal of Animal Science</em> 98:6. <a href="https://academic.oup.com/jas/article/98/6/skaa179/5849339?login=true">doi:10.1093/jas/skaa179</a></p></li>
@@ -2669,15 +2681,16 @@ the presence of dominance effects in simulated populations using GBLUP and machi
 RV, Li C, Oliveira M, Porto-Neto L, Carvalheiro R, Oliveira HN, Tonhati H, and Albuquerque
 LG (2020) Uncovering sub-structure and genomic profiles in across-countries subpopulations
 of Angus cattle. <em>Scientific Reports</em> 10:8770. <a href="https://www.nature.com/articles/s41598-020-65565-1">doi:10.1038/s41598-020- 65565-1</a></p></li>
-</ul>
-<h2 id="section-6">2019</h2>
+</ul></li>
+<li><p>2019</p>
 <ul>
 <li><strong>Alves AAC</strong>, Pinzon AC, Costa RM, Silva MS, Vieira EHM, Mendonça IB, Viana VSS, and
 Lôbo RNB (2019) Multiple regression and machine learning-based methods for carcass traits
 and saleable meat cuts prediction using non-invasive in vivo measurements in commercial
 lambs. <em>Small Ruminant Research</em> 171:49-56. <a href="https://www.sciencedirect.com/science/article/pii/S0921448818310265">doi: 10.1016/j.smallrumres.2018.12.008</a></li>
 </ul>
-<div class="sourceCode" id="cb1"><pre class="sourceCode r distill-force-highlighting-css"><code class="sourceCode r"></code></pre></div>
+<div class="sourceCode" id="cb1"><pre class="sourceCode r distill-force-highlighting-css"><code class="sourceCode r"></code></pre></div></li>
+</ul>
 <!--radix_placeholder_article_footer-->
 <!--/radix_placeholder_article_footer-->
 </div>
