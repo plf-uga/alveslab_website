@@ -1,5 +1,24 @@
 [
   {
+    "path": "posts/2025-03-31-congratulations-to-jordan-hooker-for-his-succsseful-ms-defense/",
+    "title": "Congratulations to Jordan Hooker for his successful M.S. defense",
+    "description": "Jordan Hooker successfully defended his M.S. thesis titled \"Harnessing sensor technologies and machine learning for monitoring behavioral and productive indicators in dairy cows\" On Last Friday, March 28th.",
+    "author": [
+      {
+        "name": "Anderson Alves",
+        "url": {}
+      }
+    ],
+    "date": "2025-03-31",
+    "categories": [
+      "Defenses"
+    ],
+    "contents": "\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
+    "preview": "posts/2025-03-31-congratulations-to-jordan-hooker-for-his-succsseful-ms-defense/cover.jpg",
+    "last_modified": "2025-03-31T14:06:11-04:00",
+    "input_file": "congratulations-to-jordan-hooker-for-his-succsseful-ms-defense.knit.md"
+  },
+  {
     "path": "posts/2024-06-09-new-paper-on-mortality-monitoring/",
     "title": "Recent paper published on Broiler mortality monitoring with Machine Learning",
     "description": {},
