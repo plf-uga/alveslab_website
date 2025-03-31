@@ -21,6 +21,8 @@ navbar:
       href: news.html
     - text: "PUBLICATIONS"
       href: publications.html
+    - text: "MEDIA"
+      href: media.html
     - text: "PEOPLE"
       href: people.html
     - text: "SOFTWARE"

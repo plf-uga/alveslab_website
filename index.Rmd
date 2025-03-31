@@ -8,7 +8,7 @@ links:
   - label: '<i class="fab fa-linkedin"></i> LinkedIn'
     url: "https://www.linkedin.com/in/anderson-alves-69aa70212"
   - label: '<i class="fas fa-envelope"></i> Email'
-    url: "mailto:carvalhoalve@wisc.edu"
+    url: "mailto:alvesand@uga.edu"
 base_url: alvesand.netlify.app
 preview: cow.jpg
 twitter:
