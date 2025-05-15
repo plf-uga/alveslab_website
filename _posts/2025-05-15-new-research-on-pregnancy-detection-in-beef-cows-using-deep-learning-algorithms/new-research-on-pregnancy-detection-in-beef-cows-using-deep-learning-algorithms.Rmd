@@ -1,0 +1,34 @@
+---
+title: "New research on pregnancy detection in Beef cows using deep learning algorithms"
+description: |
+  Deep learning algorithms applied to luteal Color Doppler ultrasonography accurately classified pregnancy status as early as day 20 after insemination, achieving performance comparable to trained personnel. This approach holds promise for enhancing workflow efficiency in commercial beef cattle reproductive management.
+author: Anderson Alves
+date: 2025-05-15
+categories:
+  - Recent Papers
+output:
+  distill::distill_article:
+    self_contained: false
+preview: figure1.jpg
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+We are thrilled to announce that our latest research on computer vision analysis of luteal color Doppler ultrasonography for early and automated pregnancy diagnosis in beef cows has been published on <span style="color: red;"> [Journal of Animal Science](https://academic.oup.com/jas/advance-article/doi/10.1093/jas/skaf166/8129065#518108568)</span>.
+
+This study evaluated the potential of deep learning (DL) algorithms to support early and
+real-time pregnancy diagnosis in beef cattle using Color Doppler (CD) ultrasonography. To train
+the DL algorithms, 10,533 and 10,413 frames were extracted from ultrasound videos recorded 20
+and 22 days after artificial insemination (AI), respectively. Pregnancy status for each cow was
+confirmed on day 29 using conventional ultrasonography, which served as the ground truth for
+comparing the accuracy of both human and DL-based predictions. The DL algorithms achieved
+up to 91% accuracy, closely matching the performance of trained veterinarians under controlled
+conditions (93%). These findings demonstrate that DL algorithms combined with CD
+ultrasonography can reliably predict pregnancy status earlier than industry-standard methods,
+with performance comparable to skilled personnel. This approach shows promise for improving
+workflow efficiency in commercial beef cattle reproductive management.
+
+<img src="figure1.jpg" alt="Profile Image" style="width: 80%;">

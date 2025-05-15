@@ -21,6 +21,25 @@
     "preview_height": 388
   },
   {
+    "path": "posts/2025-05-15-new-research-on-pregnancy-detection-in-beef-cows-using-deep-learning-algorithms/",
+    "title": "New research on pregnancy detection in Beef cows using deep learning algorithms",
+    "description": "Deep learning algorithms applied to luteal Color Doppler ultrasonography accurately classified pregnancy status as early as day 20 after insemination, achieving performance comparable to trained personnel. This approach holds promise for enhancing workflow efficiency in commercial beef cattle reproductive management.",
+    "author": [
+      {
+        "name": "Anderson Alves",
+        "url": {}
+      }
+    ],
+    "date": "2025-05-15",
+    "categories": [
+      "Recent Papers"
+    ],
+    "contents": "\r\nWe are thrilled to announce that our latest research on computer vision analysis of luteal color Doppler ultrasonography for early and automated pregnancy diagnosis in beef cows has been published on  Journal of Animal Science.\r\nThis study evaluated the potential of deep learning (DL) algorithms to support early and\r\nreal-time pregnancy diagnosis in beef cattle using Color Doppler (CD) ultrasonography. To train\r\nthe DL algorithms, 10,533 and 10,413 frames were extracted from ultrasound videos recorded 20\r\nand 22 days after artificial insemination (AI), respectively. Pregnancy status for each cow was\r\nconfirmed on day 29 using conventional ultrasonography, which served as the ground truth for\r\ncomparing the accuracy of both human and DL-based predictions. The DL algorithms achieved\r\nup to 91% accuracy, closely matching the performance of trained veterinarians under controlled\r\nconditions (93%). These findings demonstrate that DL algorithms combined with CD\r\nultrasonography can reliably predict pregnancy status earlier than industry-standard methods,\r\nwith performance comparable to skilled personnel. This approach shows promise for improving\r\nworkflow efficiency in commercial beef cattle reproductive management.\r\n\r\n\r\n\r\n\r\n",
+    "preview": "posts/2025-05-15-new-research-on-pregnancy-detection-in-beef-cows-using-deep-learning-algorithms/figure1.jpg",
+    "last_modified": "2025-05-15T15:07:09-04:00",
+    "input_file": "new-research-on-pregnancy-detection-in-beef-cows-using-deep-learning-algorithms.knit.md"
+  },
+  {
     "path": "posts/2025-03-31-congratulations-to-jordan-hooker-for-his-succsseful-ms-defense/",
     "title": "Congratulations to Jordan Hooker for his successful M.S. defense",
     "description": "Jordan Hooker successfully defended his M.S. thesis titled \"Harnessing sensor technologies and machine learning for monitoring behavioral and productive indicators in dairy cows\" On Last Friday, March 28th.",
